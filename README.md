@@ -1,6 +1,6 @@
 # groundmail-clerk
 
-Deliver [Clerk](https://clerk.com) auth emails through [Groundmail](https://groundmail.dev) when you disable **Delivered by Clerk**.
+Deliver [Clerk](https://clerk.com) auth emails through [Groundmail](https://groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=groundmail-clerk) when you disable **Delivered by Clerk**.
 
 Clerk has no custom SMTP form — turn off delivery per template, listen for `email.created`, and send with Groundmail.
 
@@ -39,7 +39,7 @@ Also available as `import { createClerkEmailDeliverer } from 'groundmail/clerk'`
 
 ## Docs
 
-https://docs.groundmail.dev/guides/clerk
+https://docs.groundmail.dev/guides/clerk?utm_source=github&utm_medium=readme&utm_campaign=groundmail-clerk
 
 ## License
 
